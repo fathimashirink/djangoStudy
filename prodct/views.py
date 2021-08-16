@@ -14,3 +14,5 @@ def fav(request):
 def mypage(request):
     return HttpResponse('<html><body><h1>Hi First Line</h1><br><h1>Second Line</h1></body></html>')
 
+# okke vannu  ini entheelm change varuthumboo
+#ivade
